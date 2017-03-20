@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Servlet API.iml" filepath="$PROJECT_DIR$/.idea/Servlet API.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Servlets_001_SimpleExample/Servlets_001_SimpleExample.iml" filepath="$PROJECT_DIR$/Servlets_001_SimpleExample/Servlets_001_SimpleExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Servlets_002_Lifecycle/Servlets_002_Lifecycle.iml" filepath="$PROJECT_DIR$/Servlets_002_Lifecycle/Servlets_002_Lifecycle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Servlets_003_Listeners/Servlets_003_Listeners.iml" filepath="$PROJECT_DIR$/Servlets_003_Listeners/Servlets_003_Listeners.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Servlets_004_Networking/Servlets_004_Networking.iml" filepath="$PROJECT_DIR$/Servlets_004_Networking/Servlets_004_Networking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Servlets_005_Filtering/Servlets_005_Filtering.iml" filepath="$PROJECT_DIR$/Servlets_005_Filtering/Servlets_005_Filtering.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Servlets_006_RichExample/Servlets_006_RichExample.iml" filepath="$PROJECT_DIR$/Servlets_006_RichExample/Servlets_006_RichExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Servlets_007_JspExample/Servlets_007_JspExample.iml" filepath="$PROJECT_DIR$/Servlets_007_JspExample/Servlets_007_JspExample.iml" />
+    </modules>
+  </component>
+</project>

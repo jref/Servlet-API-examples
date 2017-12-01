@@ -3,7 +3,13 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
-      <excludeFolder url="file://$MODULE_DIR$" />
+      <excludeFolder url="file://$MODULE_DIR$/Servlets_001_SimpleExample" />
+      <excludeFolder url="file://$MODULE_DIR$/Servlets_002_Lifecycle" />
+      <excludeFolder url="file://$MODULE_DIR$/Servlets_003_Listeners" />
+      <excludeFolder url="file://$MODULE_DIR$/Servlets_004_Networking" />
+      <excludeFolder url="file://$MODULE_DIR$/Servlets_005_Filtering" />
+      <excludeFolder url="file://$MODULE_DIR$/Servlets_006_RichExample" />
+      <excludeFolder url="file://$MODULE_DIR$/Servlets_007_JspExample" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
